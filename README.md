@@ -1,8 +1,6 @@
 # odin-recipes
 I'm building a basic website that will consist of a main index page which will have links to a few recipes.
 
-I  completed the project 
-
 The skills I demonstrated :
 
 * Able to understand how an HTML structure worked by using tags in the correct manner most of the time
