@@ -1,3 +1,8 @@
+#title, .section-heading {
+    background-color: orange;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 #title {
     color:rgb(0, 0, 0);
     background-color: orange;
