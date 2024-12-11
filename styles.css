@@ -1,3 +1,8 @@
 #title {
     color:rgb(235, 137, 9);
 }
+
+h2 {
+    background-color: orange;
+    font-family: 'Courier New', Courier, monospace;
+}
