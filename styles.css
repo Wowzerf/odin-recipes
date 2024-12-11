@@ -3,6 +3,7 @@
     background-color: orange;
     font-family: 'Times New Roman', Times, serif;
     font-size:48px;
+    
 }
 
 .section-heading {
@@ -18,4 +19,8 @@ img {
 
 .detail {
     font-size: 22px;
+}
+ul {
+    font-weight:bold;
+    
 }
