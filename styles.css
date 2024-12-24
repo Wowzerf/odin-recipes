@@ -6,7 +6,6 @@
 #title {
     color:rgb(0, 0, 0);
     font-size:48px;
-    
 }
 
 .section-heading {
@@ -24,4 +23,8 @@ img {
 
 ul {
     font-weight:bold;
+}
+
+.menu-recipes li {
+    font-size: 40px;
 }
