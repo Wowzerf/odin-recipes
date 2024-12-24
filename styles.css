@@ -28,6 +28,7 @@ ul {
 .menu-recipes li {
     font-size: 35px;
     margin-bottom: 50px;
+    list-style: none;
 }
 
 #home-title {
