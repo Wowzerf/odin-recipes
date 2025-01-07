@@ -25,6 +25,10 @@ ul {
     font-weight:bold;
 }
 
+.menu-recipes {
+    padding: 50px;
+}
+
 .menu-recipes li {
     font-size: 35px;
     margin-bottom: 50px;
