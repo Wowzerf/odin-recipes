@@ -29,6 +29,7 @@ ul {
     padding: 50px;
     margin: 0 auto;
     border: 10px solid orange;
+    width: 800px;
 }
 
 .menu-recipes li {
